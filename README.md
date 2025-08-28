@@ -43,22 +43,6 @@ It allows users to explore products, view details, manage their cart, update shi
 - **Notifications:** React Hot Toast  
 - **Icons:** React Icons  
 
-## 📂 Project Structure
-$-shop/
-- ├── public/                # Static files
-- ├── src/
-- │   ├── components/        # Reusable UI components (Navbar, Footer, Modal, Checkout, etc.)
-- │   ├── pages/             # Pages (Home, Shop, Cart, Order, ProductDetail)
-- │   ├── redux/             # Redux store & slices
-- │   │   ├── store.js
-- │   │   ├── cartSlice.js
-- │   │   ├── productSlice.js
-- │   ├── assets/            # Images, mock data
-- │   ├── App.jsx            # Main app with routes
-- │   ├── main.jsx           # Entry point (ReactDOM + Provider)
-- │   └── index.css          # Global styles (Tailwind)
-- └── package.json
-
 
 ---
 
